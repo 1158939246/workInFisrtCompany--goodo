@@ -1,0 +1,25 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"useDefineForClassFields": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"strict": true,
+		"jsx": "preserve",
+		"sourceMap": true,
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+		"lib": ["esnext", "dom"],
+		"typeRoots": ["src/global-dec"],
+		"baseUrl": "/",
+		"paths": {
+			"@component": ["./src/components"],
+			"@router": ["./src/router"],
+			"@": ["./src"],
+			"@assets": ["./src/assets"],
+			"@utils": ["./src/utils"]
+		}
+	},
+	"include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue", "src/global-dec/config.d.ts"],
+	"plugins": [{ "name": "typescript-plugin-css-module" }]
+}

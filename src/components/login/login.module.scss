@@ -1,0 +1,23 @@
+/*
+ * @Author: migao@wangguoyan 
+ * @Date: 2021-10-22 16:48:23 
+ * @Last Modified by: migao@wangguoyan
+ * @Last Modified time: 2021-10-22 17:37:15
+ */
+
+ $logo: url('/src/assets/login-bg.gif');
+ 
+ .loginhead {
+     height: 80px;
+ }
+
+ .box {
+     background-color: transparent;
+ }
+
+ .layoutTop {
+     height: 100%;
+     background-image: $logo;
+     background-position:center center;
+     background-size: 115%;
+ }

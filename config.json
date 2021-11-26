@@ -1,0 +1,8 @@
+{
+    "API_PREFIX": {
+        "name": "前置路由",
+        "value": "/api/v1",
+        "level": "write",
+        "desc": "访问目标服务的地址路由"
+    }
+}

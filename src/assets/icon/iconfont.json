@@ -1,0 +1,86 @@
+{
+  "id": "2965543",
+  "name": "谷斗-ipad适配",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "26004861",
+      "name": "上一设备",
+      "font_class": "shangyishebei",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "26004862",
+      "name": "行分组收起",
+      "font_class": "hangfenzushouqi",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "26004863",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "26004864",
+      "name": "行分组展开",
+      "font_class": "hangfenzuzhankai",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "26004865",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "26004888",
+      "name": "已反馈",
+      "font_class": "yifankui",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "26004907",
+      "name": "导航栏下拉框小三角",
+      "font_class": "daohanglanxialakuangxiaosanjiao",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "26004857",
+      "name": "返回上一页面",
+      "font_class": "fanhuishangyiyemian",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "26004858",
+      "name": "开始",
+      "font_class": "kaishi",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "26004859",
+      "name": "结束",
+      "font_class": "jieshu",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "26004860",
+      "name": "未反馈",
+      "font_class": "weifankui",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    }
+  ]
+}
